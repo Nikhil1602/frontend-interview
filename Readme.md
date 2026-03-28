@@ -83,3 +83,7 @@ High-level topic for basic development:
 - [Everything about JSON](https://www.youtube.com/watch?v=iiADhChRriM&list=PLZlA0Gpn_vH85jM1TWO6TdCtSr6ruglWn)
 - Practice DOM from [here](https://www.jschallenger.com/javascript-dom-exercises/)
 - To deep dive into JS world visit [here](./JavaScript/Readme.md)
+
+### 👉 External Learnings
+
+- [SQL (Structured Query Language)](./sql/Readme.md)

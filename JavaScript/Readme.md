@@ -55,3 +55,7 @@
 - Visit link 2 - https://github.com/surbhidighe/Javascript-Output-Based-Questions
 - Visit link 3 - https://github.com/BilgeGates/Js-Interview-Questions/tree/master
 - Visit link 4 - https://github.com/Devinterview-io/javascript-interview-questions
+
+### 👉 External Links
+
+- [SQL (Structured Query Language)](../sql/Readme.md)

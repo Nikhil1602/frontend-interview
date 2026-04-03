@@ -3,6 +3,19 @@
 [Node.js](https://www.youtube.com/watch?v=2YIgGdUtbXM) is a runtime environment that allows Javascript to run outside the browser. It's built on [Chrome's v8 engine](https://www.youtube.com/watch?v=9nb-K9KlY70) and is used for building scalable server-side applications.
 
 
+### 👉 Topics to watch
+#
+
+- [Internal Working of NodeJs](https://www.youtube.com/watch?v=ULseP3rYwQI)
+- [Thread, Process, Program](https://www.youtube.com/watch?v=hN2Yrf4tqTY)
+- [Thread vs Process](https://www.youtube.com/watch?v=4rLW7zg21gI)
+- [Multi-threading in NodeJs](https://www.youtube.com/watch?v=JTl6tQ4bqYA&t=1074s)
+- [Concurrency vs Parallelism](https://www.youtube.com/watch?v=RlM9AfWf1WU)
+- [PROOF JavaScript is Multi-Threaded Language](https://www.youtube.com/watch?v=-JE8P2TiJEg)
+- [Types of API Explained](https://www.youtube.com/watch?v=pBASqUbZgkY)
+- [Authentication concepts should know](https://www.youtube.com/watch?v=iX8g4LqF8p8)
+
+
 ## 🧐 Interview Questions
 
 
